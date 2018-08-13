@@ -33,7 +33,7 @@ This repo contains all of my completed assignments for the [Deep Learning Specia
     * Week 1 - Assignment 1: [Building a Recurrent Neural Network - Step by Step](https://github.com/alaradirik/deeplearning.ai/blob/master/Sequence%20Models/Week-1/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
     * Week 1 - Assignment 2: [Dinasaur Island - Character-Level Language Modeling](https://github.com/alaradirik/deeplearning.ai/blob/master/Sequence%20Models/Week-1/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20.ipynb)
     * Week 1 - Assignment 3: [Jazz Improvisation with LSTM](https://github.com/alaradirik/deeplearning.ai/blob/master/Sequence%20Models/Week-1/Jazz%20improvisation%20with%20LSTM/Jazz%20improvisation%20with%20LSTM%20.ipynb)
-    * Week 2 - Assignment 4: [Operations on Word Vectors - Debiasing]
-    * Week 2 - Assignment 5: [Emojify]
-    * Week 3 - Assignment 6: [Neural Machine Translation with Attention]
-    * Week 3 - Assignment 7: [Trigger Word Detection]
+    * Week 2 - Assignment 4: [Operations on Word Vectors - Debiasing](https://github.com/alaradirik/deeplearning.ai/blob/master/Sequence%20Models/Week-2/Word%20Vector%20Representation/Operations%20on%20word%20vectors.ipynb)
+    * Week 2 - Assignment 5: [Emojify](https://github.com/alaradirik/deeplearning.ai/blob/master/Sequence%20Models/Week-2/Emojify/Emojify.ipynb)
+    * Week 3 - Assignment 6: [Neural Machine Translation with Attention](https://github.com/alaradirik/deeplearning.ai/blob/master/Sequence%20Models/Week-3/Machine%20Translation/Neural%20machine%20translation%20with%20attention.ipynb)
+    * Week 3 - Assignment 7: [Trigger Word Detection](https://github.com/alaradirik/deeplearning.ai/blob/master/Sequence%20Models/Week-3/Trigger%20word%20detection/Trigger%20word%20detection.ipynb)
