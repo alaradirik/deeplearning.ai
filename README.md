@@ -22,10 +22,12 @@ This repo contains all of my completed assignments for the [Deep Learning Specia
 + Course 3: Structuring Machine Learning Projects
 
 + Course 4: Convolutional Neural Networks
-    * Week 1 - Assignment 1: Convolutional Model - Step by Step
-    * Week 1 - Assignment 2: Convolutional Model - Application
-    * Week 2 - Assignment 3: Keras - Tutorial - Happy House
-    * Week 2 - Assignment 4: Residual Networks
+    * Week 1 - Assignment 1: [Convolutional Model - Step by Step](https://github.com/alaradirik/deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week-1/Convolution%20model%20-%20Step%20by%20Step.ipynb)
+    * Week 1 - Assignment 2: [Convolutional Model - Application](https://github.com/alaradirik/deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week-1/Convolution%20model%20-%20Application.ipynb)
+    * Week 2 - Assignment 3: [Residual Networks](https://github.com/alaradirik/deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week-2/Residual%20Networks.ipynb)
+    * Week 3 - Assignment 4: [Autonomous Driving Application - Car Detection](https://github.com/alaradirik/deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week-3/Autonomous%20driving%20application%20-%20Car%20detection.ipynb)
+    * Week 4 - Assignment 5: [Face Recognition for the Happy House](https://github.com/alaradirik/deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week-4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House.ipynb)
+    * Week 4 - Assignment 6: [Art Generation with Neural Style Transfer](https://github.com/alaradirik/deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week-4/Neural%20Style%20Transfer/Art%20Generation%20with%20Neural%20Style%20Transfer.ipynb)
     
 + Course 5: Sequence Models
     * Week 1 - Assignment 1: Building a Recurrent Neural Network - Step by Step
