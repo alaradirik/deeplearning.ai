@@ -30,10 +30,10 @@ This repo contains all of my completed assignments for the [Deep Learning Specia
     * Week 4 - Assignment 6: [Art Generation with Neural Style Transfer](https://github.com/alaradirik/deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week-4/Neural%20Style%20Transfer/Art%20Generation%20with%20Neural%20Style%20Transfer.ipynb)
     
 + Course 5: Sequence Models
-    * Week 1 - Assignment 1: Building a Recurrent Neural Network - Step by Step
-    * Week 1 - Assignment 2: Dinasaur Island - Character-Level Language Modeling
-    * Week 1 - Assignment 3: Jazz Improvisation with LSTM
-    * Week 2 - Assignment 4: Operations on Word Vectors - Debiasing
-    * Week 2 - Assignment 5: Emojify
-    * Week 3 - Assignment 6: Neural Machine Translation with Attention
-    * Week 3 - Assignment 7: Trigger Word Detection
+    * Week 1 - Assignment 1: [Building a Recurrent Neural Network - Step by Step](https://github.com/alaradirik/deeplearning.ai/blob/master/Sequence%20Models/Week-1/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
+    * Week 1 - Assignment 2: [Dinasaur Island - Character-Level Language Modeling](https://github.com/alaradirik/deeplearning.ai/blob/master/Sequence%20Models/Week-1/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20.ipynb)
+    * Week 1 - Assignment 3: [Jazz Improvisation with LSTM](https://github.com/alaradirik/deeplearning.ai/blob/master/Sequence%20Models/Week-1/Jazz%20improvisation%20with%20LSTM/Jazz%20improvisation%20with%20LSTM%20.ipynb)
+    * Week 2 - Assignment 4: [Operations on Word Vectors - Debiasing]
+    * Week 2 - Assignment 5: [Emojify]
+    * Week 3 - Assignment 6: [Neural Machine Translation with Attention]
+    * Week 3 - Assignment 7: [Trigger Word Detection]
