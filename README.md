@@ -3,7 +3,7 @@ deeplearning.ai         |         taught by **Andrew Ng**
 
 
 ## Description
-This repo contains all of my completed assignments for the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera.
+This repo contains all of my completed assignments for the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) on Coursera. The Deep Learning Specialization starts with basics of neural networks and covers a wide range of advanced and relevant topics. The courses are supplemented by programming assignments and quizzes, and covers a wide variety of data such as image, auditory, language and categorical data.
 
 ## Course Structure and Assignments
 + Course 1: Neural Networks and Deep Learning
