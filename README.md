@@ -20,6 +20,9 @@ This repo contains all of my completed assignments for the [Deep Learning Specia
     * Week 3 - Assignment 5: [TensorFlow Tutorial](https://github.com/alaradirik/deeplearning.ai/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
     
 + Course 3: Structuring Machine Learning Projects
+This course doesn't have any programming assignments but provides a solid foundation and a methodology to approach, design and evaluate machine learning projects. There are two case studies in this course:
+      * Week 1 - Quiz 1: [Bird Recognition in the City of Peacetopia (case study)]()
+      * Week 2 - Quiz 2: [Autonomous Driving (case study)]()
 
 + Course 4: Convolutional Neural Networks
     * Week 1 - Assignment 1: [Convolutional Model - Step by Step](https://github.com/alaradirik/deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week-1/Convolution%20model%20-%20Step%20by%20Step.ipynb)
