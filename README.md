@@ -21,8 +21,8 @@ This repo contains all of my completed assignments for the [Deep Learning Specia
     
 + Course 3: Structuring Machine Learning Projects
 This course doesn't have any programming assignments but provides a solid foundation and a methodology to approach, design and evaluate machine learning projects. There are two case studies in this course:
-      * Week 1 - Quiz 1: [Bird Recognition in the City of Peacetopia (case study)](https://github.com/alaradirik/deeplearning.ai/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20quiz:%20%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20.md)
-      * Week 2 - Quiz 2: [Autonomous Driving (case study)](https://github.com/alaradirik/deeplearning.ai/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20quiz:-%20Autonomous%20driving.md)
+    * Week 1 - Quiz 1: [Bird Recognition in the City of Peacetopia (case study)](https://github.com/alaradirik/deeplearning.ai/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20quiz:%20%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20.md)
+    * Week 2 - Quiz 2: [Autonomous Driving (case study)](https://github.com/alaradirik/deeplearning.ai/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20quiz:-%20Autonomous%20driving.md)
 
 + Course 4: Convolutional Neural Networks
     * Week 1 - Assignment 1: [Convolutional Model - Step by Step](https://github.com/alaradirik/deeplearning.ai/blob/master/Convolutional%20Neural%20Networks/Week-1/Convolution%20model%20-%20Step%20by%20Step.ipynb)
